@@ -73,7 +73,7 @@ Crawls Apple's API to discover all available documentation pages.
 
 **Important:** The discovery process respects framework boundaries.
 - If you run it without arguments, it will crawl all default frameworks.
-- If you specify frameworks (e.g., `--frameworks swift`), it will **only** crawl those specific frameworks.
+- If you specify frameworks (e.g., `--frameworks swift,--frameworks vision`), it will **only** crawl those specific frameworks.
 - Cross-framework references are intentionally ignored to allow selective downloads.
 
 ```bash
