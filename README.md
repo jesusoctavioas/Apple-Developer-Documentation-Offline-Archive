@@ -2,6 +2,9 @@
 
 Download and maintain a complete offline archive of Apple Developer Documentation in AI-optimized formats (Markdown + JSON), with git-like incremental updates.
 
+## Changes
+- **Added option to download the apple vision pro development docs, using the flag '--frameworks vision'
+  
 ## Features
 
 - **Offline Access** - Complete documentation available without internet
