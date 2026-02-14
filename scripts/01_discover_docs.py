@@ -17,6 +17,7 @@ import argparse
 # Framework root URLs
 FRAMEWORK_ROOTS = {
     'swift': 'https://developer.apple.com/tutorials/data/documentation/swift.json',
+    'vision': 'https://developer.apple.com/tutorials/data/documentation/visionos.json',
     'swiftui': 'https://developer.apple.com/tutorials/data/documentation/swiftui.json',
     'uikit': 'https://developer.apple.com/tutorials/data/documentation/uikit.json',
     'foundation': 'https://developer.apple.com/tutorials/data/documentation/foundation.json',
